@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 # dom-listener
 
 This library simplifies the event delegation pattern for DOM events. When you
